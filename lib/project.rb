@@ -8,5 +8,7 @@ class Project
   end
   
   def add_backer(person)
+    
+  end
   
 end
